@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PokeDex",
-    "slug": "PokeDex",
+    "name": "HarryPotterCharacters",
+    "slug": "HarryPotterCharacters",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
